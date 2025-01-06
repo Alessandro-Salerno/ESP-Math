@@ -1,7 +1,7 @@
 # AP-Math + ESP32
 
 ## Note
-Questo programma è stato sviluppato nell'ambito della presentaizone degli studenti Tommaso Pellegrino, Alessandro Salerno,
+Questo programma è stato sviluppato nell'ambito della presentazione degli studenti Tommaso Pellegrino, Alessandro Salerno,
 Davide Vella del 21/03/2024 presso IIS A. Avogadro. Il codice distribuito nella directory `.pio/` **NON** è di proprietà degli sviluppatori di
 questo software ed è soggetto a termini di licenza propri. Tutto il codice esterno incluso è **strettamente necessario** per il funzionamento del programma,
 nello specifico, si tratta di librerie e strumenti legati alle piattaforme ESP-IDF ed Arduino per ESP32.
